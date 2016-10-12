@@ -1,0 +1,43 @@
+{
+  "name": "ng2-mongodb-data-visualization",
+  "version": "1.0.0",
+  "description": "Anguar2 Mongodb Data Visualization Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LongingTT/ng2-mongodb-data-visualization.git"
+  },
+  "keywords": [
+    "Angular2",
+    "Mongodb"
+  ],
+  "author": "Longting Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LongingTT/ng2-mongodb-data-visualization/issues"
+  },
+  "homepage": "https://github.com/LongingTT/ng2-mongodb-data-visualization#readme",
+  "dependencies": {
+    "@angular/common": "~2.0.2",
+    "@angular/compiler": "~2.0.2",
+    "@angular/core": "~2.0.2",
+    "@angular/forms": "~2.0.2",
+    "@angular/http": "~2.0.2",
+    "@angular/platform-browser": "~2.0.2",
+    "@angular/platform-browser-dynamic": "~2.0.2",
+    "@angular/router": "~3.0.2",
+    "bootstrap": "^3.3.7",
+    "core-js": "^2.4.1",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "5.0.0-beta.12",
+    "systemjs": "0.19.39",
+    "zone.js": "^0.6.25"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.3",
+    "typings":"^1.4.0"
+  }
+}
